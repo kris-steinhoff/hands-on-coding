@@ -87,4 +87,4 @@ fi
 
 ## Get fancy
 
-If you want a more elaborate, prompt check out [bash-it](https://github.com/Bash-it/bash-it) or [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). These frameworks provide handy mechanisms to create colorful and useful prompts and have some good built-in prompts you can use.
+If you want a more elaborate prompt, check out [bash-it](https://github.com/Bash-it/bash-it) or [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). These frameworks provide handy mechanisms to create colorful and useful prompts and have some good built-in prompts you can use.
